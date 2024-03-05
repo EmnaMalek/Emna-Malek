@@ -6,7 +6,7 @@
 <h3 align="center">A passionate FullStack Developer from Tunisia</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🔭 I’m currently working on **HMI Testing**
+- 🔭 I’m currently working on **FullStuck developpement **
 
 - 🌱 I’m currently learning **Angular, nodeJS**
 - 💬 Ask me about **JAVA **
